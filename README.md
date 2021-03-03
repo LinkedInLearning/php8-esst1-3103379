@@ -3,7 +3,6 @@ Hier sind die Beispiele für den Kurs `PHP 8 Grundkurs`. Der Kurs ist unter [Lin
 
 ![course-name-alt-text][lil-thumbnail-url] 
 
-_See the readme file in the main branch for updated instructions and information._
 ## Hinweise
 Für jedes Kapitel gibt es einen eigenen Ordner mit den zugehörigen Dateien.
 
