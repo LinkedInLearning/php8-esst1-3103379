@@ -1,0 +1,32 @@
+01_01 Was ist PHP
+https://www.php.net/
+https://w3techs.com/technologies/overview/programming_language
+https://de.wordpress.org/
+https://www.joomla.de/
+https://www.php.net/manual/de/
+https://www.php.net/manual/de/refs.database.php
+https://laravel.com/
+https://getcomposer.org/
+
+
+01_03 Voraussetzungen für die Arbeit mit PHP 
+http://httpd.apache.org/
+https://www.php.net/
+https://www.apachefriends.org/de/index.html
+https://www.mamp.info/de
+https://code.visualstudio.com/
+
+01_04 XAMPP installieren
+https://www.apachefriends.org/de/index.html
+
+02_06 Escape-Sequenzen
+https://www.php.net/manual/de/language.types.string.php
+
+02_08 Konstanten
+https://www.php.net/manual/de/language.constants.predefined.php
+
+03_05 Rangfolge
+https://www.php.net/manual/en/language.operators.precedence.php
+
+04_04 Vordefinierte Arrays
+https://www.php.net/manual/en/reserved.variables.server.php
