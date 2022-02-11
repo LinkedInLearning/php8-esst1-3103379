@@ -15,4 +15,4 @@ Für jedes Kapitel gibt es einen eigenen Ordner mit den zugehörigen Dateien.
 
 _Autorin und Trainerin_
 
-Sehen Sie sich andere Kurse der Autorin auf [LinkedIn Learning](https://www.linkedin.com/learning/instructors/florence-maurice?u=104) an.
+Sehen Sie sich andere Kurse der Autorin auf [LinkedIn Learning](https://www.linkedin.com/learning/instructors/florence-maurice) an.
