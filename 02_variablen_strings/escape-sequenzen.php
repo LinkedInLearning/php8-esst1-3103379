@@ -6,10 +6,11 @@
     <title>PHP</title>
   </head>
   <body>
-     <img src="https://placeimg.com/200/280/any">
+    <!-- Platzhalterdienst für Bilder geändert -->
+     <img src="https://picsum.photos/200/300">
     <?php
-     echo "<img src=\"https://placeimg.com/200/280/any\">";
-     echo '<img src="https://placeimg.com/200/280/any">';
+     echo "<img src=\"https://picsum.photos/200/300\">";
+     echo '<img src="https://picsum.photos/200/300">';
     ?>
   </body>
 </html>
